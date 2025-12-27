@@ -1,0 +1,1 @@
+LLM stands for Large Language Model. It is a type of artificial intelligence (AI) designed to process and understand human language. LLMs are trained on vast amounts of text data, which enables them to generate human-like language and respond to a wide range of questions and prompts.
